@@ -1,1 +1,1 @@
-It is a guest house website
+Guest House is an online platform that allows users to browse, book, and manage room reservations conveniently. Whether you're looking for a short stay or a long-term booking, our platform provides a seamless experience with real-time availability, secure payments, and user-friendly navigation.
